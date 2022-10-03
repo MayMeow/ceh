@@ -4,6 +4,8 @@ sidebar_position: 0
 
 # Certified ethical hacker in bullet points
 
+This project is based on: [undergroundwires/CEH-in-bullet-points](https://github.com/undergroundwires/CEH-in-bullet-points) but with easier searching in documentataion (planned)
+
 
 - This repo contains study notes for Certified Ethical Hacker exam.
 - The notes are comprehensive and written with goal of covering all exam areas.
