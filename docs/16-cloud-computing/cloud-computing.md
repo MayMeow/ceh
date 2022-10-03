@@ -67,7 +67,7 @@
 ### Identity-as-a-Service (IDaaS)
 
 - Managed authentication services
-- Services include e.g. • [Single-Sign-On (SSO)](./../01-introduction/identity-access-management-(iam).md#single-sign-on-sso) • [Multi-Factor-Authentication (MFA)](./../01-introduction/identity-access-management-(iam).md#multi-factor-authentication-mfa) • Identity Governance and Administration (IGA) • Access management • Intelligence collection
+- Services include e.g. • [Single-Sign-On (SSO)](./../01-introduction/identity-access-management-iam.md#single-sign-on-sso) • [Multi-Factor-Authentication (MFA)](./../01-introduction/identity-access-management-iam.md#multi-factor-authentication-mfa) • Identity Governance and Administration (IGA) • Access management • Intelligence collection
 
 ### Security-as-a-Service (SECaaS)
 

@@ -190,4 +190,4 @@
   - [Wapiti](https://wapiti.sourceforge.io/)
   - [Zeus-Scanner](https://github.com/ekultek/zeus-scanner)
   - [RED HAWK](https://github.com/Tuhinshubhra/RED_HAWK)
-- [Snort](./../11-firewalls-ids-and-honeypots/intrusion-detection-system-(ids)-overview.md#snort) - Open Intrusion Prevention System (IPS)
+- [Snort](./../11-firewalls-ids-and-honeypots/intrusion-detection-system-ids-overview.md#snort) - Open Intrusion Prevention System (IPS)

@@ -95,7 +95,7 @@
 ## Privilege escalation countermeasures
 
 - Apply least-privilege: Never grant more privileges than needed!
-- Use encryption and [MFA](./../01-introduction/identity-access-management-(iam).md#multi-factor-authentication-mfa)
+- Use encryption and [MFA](./../01-introduction/identity-access-management-iam.md#multi-factor-authentication-mfa)
 - Run services as unprivileged accounts
 - Patch and update regularly
 - Ensure all executables are write-protected

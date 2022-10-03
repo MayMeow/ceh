@@ -139,7 +139,7 @@
 ### Authentication policy
 
 - Limits ability to be authenticated under some conditions
-- E.g. no coffee shop wireless, only through VPN and using [MFA](identity-access-management-(iam).md#multi-factor-authentication-mfa)
+- E.g. no coffee shop wireless, only through VPN and using [MFA](identity-access-management-iam.md#multi-factor-authentication-mfa)
 
 ## Implementation
 

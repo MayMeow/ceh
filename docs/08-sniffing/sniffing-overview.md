@@ -50,7 +50,7 @@
 
 - Used on a network switch
 - Sends copy of network packets seen on one switch port (or an entire VLAN) to another port
-- Often used in [Intrusion Detection System](./../11-firewalls-ids-and-honeypots/intrusion-detection-system-(ids)-overview.md)s.
+- Often used in [Intrusion Detection System](./../11-firewalls-ids-and-honeypots/intrusion-detection-system-ids-overview.md)s.
 - Also known as **span port**
   - In Cisco system, it's commonly referred as Switched Port Analyzer (SPAN)
 - See also [STP attack](./spoofing-attacks.md#stp-spoofing-attack) for an exploitation
@@ -86,6 +86,6 @@
 - Permanently add the MAC address of the gateway to the ARP cache.
 - Use static IP addresses and static ARP tables
 - Use switch instead of hub as switch delivers data only to the intended recipient.
-- Use • [PGP](./../15-cryptography/encrypting-communication.md#pgp-pretty-good-privacy) and S/MIPE • VPN • [IPSec](./../15-cryptography/tunneling-protocols.md#ipsec) • [SSL/TLS](./../15-cryptography/encrypting-communication.md#ssltls) • [Secure Shell (SSH)](./../15-cryptography/tunneling-protocols.md#ssh-secure-shell) • [One-time passwords (OTP)](./../01-introduction/identity-access-management-(iam).md#one-time-password-otp).
+- Use • [PGP](./../15-cryptography/encrypting-communication.md#pgp-pretty-good-privacy) and S/MIPE • VPN • [IPSec](./../15-cryptography/tunneling-protocols.md#ipsec) • [SSL/TLS](./../15-cryptography/encrypting-communication.md#ssltls) • [Secure Shell (SSH)](./../15-cryptography/tunneling-protocols.md#ssh-secure-shell) • [One-time passwords (OTP)](./../01-introduction/identity-access-management-iam.md#one-time-password-otp).
 - Retrieve MAC directly from NIC instead of OS to prevent MAC address spoofing.
 - Use tools to determine if any NICs are running in the promiscuous mode.

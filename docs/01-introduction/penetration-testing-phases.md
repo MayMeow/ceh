@@ -150,7 +150,7 @@
     - once you pass the perimeter, you're more likely to find something inside
 - Defenses include
   - Running services with the least privileged accounts
-  - Implementing [multi-factor authentication/authorization](./identity-access-management-(iam).md#multi-factor-authentication-mfa)
+  - Implementing [multi-factor authentication/authorization](./identity-access-management-iam.md#multi-factor-authentication-mfa)
 
 ### d. Execute, implant, retract
 

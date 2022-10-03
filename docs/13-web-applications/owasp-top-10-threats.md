@@ -98,7 +98,7 @@
   - Session IDs not being rotated (changed)
   - Weak or ineffective credential recovery and forgot-password processes
   - Plain text, encrypted, or weakly hashed passwords
-  - Ineffective [multi-factor authentication (MFA)](./../01-introduction/identity-access-management-(iam).md#multi-factor-authentication-mfa)
+  - Ineffective [multi-factor authentication (MFA)](./../01-introduction/identity-access-management-iam.md#multi-factor-authentication-mfa)
   - Improperly set timeouts (does not invalidate session during e.g. user inactivity or log out)
 
 ### Example attacks for broken authentication
@@ -110,7 +110,7 @@
 
 ### Countermeasures for broken authentication
 
-- Use [MFA (multi-factor authentication)](./../01-introduction/identity-access-management-(iam).md#multi-factor-authentication-mfa) where possible to prevent e.g. automated and brute-force attacks.
+- Use [MFA (multi-factor authentication)](./../01-introduction/identity-access-management-iam.md#multi-factor-authentication-mfa) where possible to prevent e.g. automated and brute-force attacks.
 - Do not ship or deploy with any default credentials
 - Implement weak-password checks, such as testing new or changed passwords against a list of the top 10000 worst passwords.
 - Use NIST standard password length, complexity and rotation policies
@@ -256,7 +256,7 @@
 
 - Session stealing
 - Account takeover
-- [MFA](./../01-introduction/identity-access-management-(iam).md#multi-factor-authentication-mfa) bypass
+- [MFA](./../01-introduction/identity-access-management-iam.md#multi-factor-authentication-mfa) bypass
 - DOM node replacement or defacement (such as trojan login panels)
 - Attacks against the user's browser such as malicious software download
 - Key logging
